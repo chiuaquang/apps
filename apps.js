@@ -159,10 +159,10 @@ const apps = [
     "logo": "https://raw.githubusercontent.com/ZiolKen/GoodbyeEternityiOS/main/icon.png",
     "name": "Goodbye Eternity",
     "os": "iOS",
-    "version": "0.11.0",
-    "size": "1,32GB",
+    "version": "0.13.5",
+    "size": "2,08GB",
     "description": "Goodbye Eternity iOS Port (.iPA) by ZiolKen.",
-    "detailDesc": "Thể loại: NSFW, 2D, Main Nam, Visual Novel, Dating Sim, Romance, Eroge, Mystery, Modern, Narrative, Mature, Emotional, Simulation, Cảnh Động...\n\nPhiên bản: 0.11.0\n\nDeveloper: RNGeusEX\n\nNội Dung Game:\n\nNếu bạn có một cơ hội mới trong cuộc đời mình, bạn sẽ làm gì?\n\nNếu bạn có thể trả thù những người đã đối xử tồi tệ với bạn và đạt được những ước mơ lâu nay… Bạn sẽ làm gì, với cơ hội này, khi bạn thức dậy trong một cơ thể trẻ trung của ba mươi năm trước?\n\nGoodbye Eternity (hay còn gọi là Extra Life) là một tựa game phiêu lưu kết hợp cùng với thể loại visual novel và giả lập hẹn hò, xoay quanh chủ đề làm lại cuộc đời.\n\nCốt truyện game tập trung vào các lựa chọn của người chơi, và mỗi lựa chọn đều ảnh hưởng đến mối quan hệ và kết cục của game.\n\nSaito, nhân vật chính của game có thể chọn đối đầu với những kẻ từng làm tổn thương mình, theo đuổi ước mơ bị chôn vùi, hoặc xây dựng mối quan hệ tình cảm với các nhân vật nữ trong game.",
+    "detailDesc": "Thể loại: NSFW, 2D, Main Nam, Visual Novel, Dating Sim, Romance, Eroge, Mystery, Modern, Narrative, Mature, Emotional, Simulation, Cảnh Động...\n\nPhiên bản: 0.13.5\n\nDeveloper: RNGeusEX\n\nNội Dung Game:\n\nNếu bạn có một cơ hội mới trong cuộc đời mình, bạn sẽ làm gì?\n\nNếu bạn có thể trả thù những người đã đối xử tồi tệ với bạn và đạt được những ước mơ lâu nay… Bạn sẽ làm gì, với cơ hội này, khi bạn thức dậy trong một cơ thể trẻ trung của ba mươi năm trước?\n\nGoodbye Eternity (hay còn gọi là Extra Life) là một tựa game phiêu lưu kết hợp cùng với thể loại visual novel và giả lập hẹn hò, xoay quanh chủ đề làm lại cuộc đời.\n\nCốt truyện game tập trung vào các lựa chọn của người chơi, và mỗi lựa chọn đều ảnh hưởng đến mối quan hệ và kết cục của game.\n\nSaito, nhân vật chính của game có thể chọn đối đầu với những kẻ từng làm tổn thương mình, theo đuổi ước mơ bị chôn vùi, hoặc xây dựng mối quan hệ tình cảm với các nhân vật nữ trong game.",
     "screenshots": [
       "https://images.gog-statics.com/209b248ba608ae21a7d1f5eee26dda33ad7fde3d5a963c613d093829141c356d.jpg",
       "https://erovns.com/wp-content/uploads/2025/06/4-1536x863.webp",
@@ -173,7 +173,7 @@ const apps = [
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwD58Ibga4PO084a8Od6L2a0QPZ_oVk3Pxr7XQ8HO-_ri370B2CYFBjEVzw1VbReNR0SPMB8opEO5fQONjH10quLJOBmUWzLGlv_h8joWOVAtJnJSz5ywMPf7Kjgl-lYKUUbZtlIfCWmFNcFitgKRI58qQDH-Lt0MGco4sceJn6qP4v60H7kKKVJHHHA/s16000/saito_noriko_04.jpg",
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijD8lwbo-M3g1wFk0InGr0ARFjPAMMIQIr61BzZmVo89omNltpdskM4CY_DnKSCDKXSC7Xi0uIjGvL1JL4xnCXc9qSgyLw6EVjBBR-RCUeqMkzRaf0ql0gkX59dNWX_Ay2Ff10sGSJHk6e5FEXSLYeoOzftkKKIlDAB5EDGeLqO7tNcpsV4FoMHwO0SQ/s16000/06.jpg"
     ],
-    "downloadLink": "https://download1475.mediafire.com/m2spik2c5bbgGHlPp1N_YKbdIOc9VWx43-qb3AI38B-N8joD77rLPxMM1Qb0TKF3ZSzjW4DrdCOwROX4mhAop4_IYofIQcU06AS81SzaQWmxyywsKGTDeeeL81uDFmQtDgBlamOx5x9tRrkHUajb3QOs3K9epacYh9euNPn9Li7z/g32ruuamropa2ub/GoodbyeEternity-0.11.0-iOS.ipa"
+    "downloadLink": "https://pixeldrain.com/u/gJTfVidz"
   },
   {
     "type": "iPA",
