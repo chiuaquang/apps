@@ -426,7 +426,7 @@ const apps = [
     "logo": "https://imgbox.com/9NHojx8M",
     "name": "My Real Desire",
     "os": "Windows",
-    "version": "1.7GB",
+    "version": "Final",
     "size": "1.7Gb",
     "description": "My Real Desire Android PC IOS",
     "downloadLink": "https://pixeldrain.com/u/3J473h23",
