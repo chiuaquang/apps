@@ -435,5 +435,23 @@ const apps = [
       "https://files.catbox.moe/4egrwr.webp",
       "https://files.catbox.moe/nyxhx7.jpeg"
     ]
+  },
+  {
+    "type": "Game",
+    "logo": "https://files.catbox.moe/9k1kef.jpg",
+    "name": "Cross Realm",
+    "os": "Android",
+    "version": "0.4",
+    "size": "5 GB",
+    "description": "Cross Realm 0.4 việt hóa free",
+    "downloadLink": "Coming",
+    "detailDesc": "Thể loại: 18, 3D, Main Nam, Fantasy, Harem, Romance, Visual Novel, Simulation, Cảnh H Động.\n\nPhiên bản: v0.4\n\nNgôn ngữ: Tiếng việt\n\nDeveloper: DuskDuck\n\nĐược việt hóa bởi: GL18VN\n\nNội Dung Game: Vào ngày đầu tiên của cuộc sống đại học, bạn và một nhóm bạn bị hút vào một cơn lốc xoáy. \n\nKhi bạn tỉnh dậy, bạn nhận ra mình đang ở một nơi xa lạ – đây không phải là Trái đất. Khi bạn khám phá thế giới mới này, bạn phát hiện ra đó là một cõi tu tiên, nơi sức mạnh quyết định mọi thứ.\n\nCó chín Cõi, mỗi Cõi do một chủng tộc thống trị kiểm soát: Con người, Ác quỷ, Thần linh, Linh thú, v.v.\nMỗi Cõi có một con “suối” – một luồng năng lượng Khí được thu thập từ Hư không, không gian giữa các Cõi.\n\nBạn đến trong thời kỳ hòa bình dài nhất từng được biết đến, nhưng cái gọi là ‘hòa bình’ này thực sự sẽ kéo dài được bao lâu?\nKhi cuộc hành trình của bạn tiếp tục, bạn sẽ khám phá ra nhiều bí mật hơn về các Cõi này. Một ai đó trong bóng tối đã âm mưu và dàn dựng sự xuất hiện của bạn.\n\nBạn có thể tự đứng lên vì chính mình trong một thế giới mà nhiều người coi bạn chẳng hơn gì một con kiến vô dụng không?\nCâu trả lời nằm ở chính lựa chọn của bạn!",
+    "screenshots": [
+      "https://files.catbox.moe/9k1kef.jpg",
+      "https://files.catbox.moe/tdsne5.jpeg",
+      "https://files.catbox.moe/deevmv.jpeg",
+      "https://files.catbox.moe/kx6e0r.jpeg",
+      "https://files.catbox.moe/wwt2ui.jpg"
+    ]
   }
 ];
