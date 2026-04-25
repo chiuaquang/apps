@@ -423,7 +423,7 @@ const apps = [
   },
   {
     "type": "Game",
-    "logo": "https://imgbox.com/9NHojx8M",
+    "logo": "https://files.catbox.moe/zbcz1e.png",
     "name": "My Real Desire",
     "os": "Windows",
     "version": "Final",
@@ -432,9 +432,8 @@ const apps = [
     "downloadLink": "https://pixeldrain.com/u/3J473h23",
     "detailDesc": "Thể loại: 18+, 3D, Main Nam, Romance, Harem, Rape, Visual Novel, Cảnh H Động.\nNgôn ngữ: Tiếng việt\n\nDeveloper: Lyk4n\n\nĐược việt hóa bởi: ???\n\nPhiên bản: End\n\nNội Dung Game: Bạn sẽ vào vai một thành niên trẻ vừa mới tốt nghiệp đại học.",
     "screenshots": [
-      "https://imgbox.com/w470IicZ",
-      "https://imgbox.com/dS0GePPj",
-      "https://imgbox.com/l1CnprCr"
+      "https://files.catbox.moe/4egrwr.webp",
+      "https://files.catbox.moe/nyxhx7.jpeg"
     ]
   }
 ];
