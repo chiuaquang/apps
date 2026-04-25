@@ -428,7 +428,7 @@ const apps = [
     "os": "Windows",
     "version": "Final",
     "size": "1.7Gb",
-    "description": "My Real Desire Android PC IOS",
+    "description": "My Real Desire Android PC IOS Vkiss",
     "downloadLink": "https://pixeldrain.com/u/3J473h23",
     "detailDesc": "Thể loại: 18+, 3D, Main Nam, Romance, Harem, Rape, Visual Novel, Cảnh H Động.\nNgôn ngữ: Tiếng việt\n\nDeveloper: Lyk4n\n\nĐược việt hóa bởi: ???\n\nPhiên bản: End\n\nNội Dung Game: Bạn sẽ vào vai một thành niên trẻ vừa mới tốt nghiệp đại học.",
     "screenshots": [
